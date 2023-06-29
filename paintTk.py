@@ -1,4 +1,3 @@
-    # Credits for the original author -- Git hub @PauloDantaas
 
 import pyscreenshot
 from tkinter import *
